@@ -6,8 +6,6 @@ This project simulates a real-world Security Operations Center (SOC) using Windo
 
 ## What This Lab Covers
 
-## What This Lab Covers
-
 - **Windows Server 2022** – Active Directory (AD), Group Policy (GPOs), and Sysmon for endpoint security
 - **Linux SIEM (Security Onion / Wazuh)** – Security monitoring, threat hunting, and log analysis
 - **Kali Linux** – Simulated attacker for testing security defenses
